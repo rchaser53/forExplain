@@ -1,0 +1,10 @@
+{
+  "name": "typescript-test",
+  "scripts": {
+    "tsc": "tsc -p ."
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.28",
+    "typescript": "^2.3.4"
+  }
+}
